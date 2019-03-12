@@ -1,0 +1,8 @@
+FACTURA 4
+Date comanda : 
+
+Comanda : 4
+Clientul : 4
+Produsul 3	 Ceai 	1.2 	2
+Cantitate cumparata : 3
+Total de plata : 3.5999999999999996
